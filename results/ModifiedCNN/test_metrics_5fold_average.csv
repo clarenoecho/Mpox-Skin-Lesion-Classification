@@ -1,0 +1,6 @@
+metric,mean_5_fold
+accuracy,0.6795230516521167
+precision_macro,0.6654960954164025
+recall_macro,0.5702469245211181
+f1_macro,0.577360303036125
+roc_auc_ovr_macro,0.8943154739943718

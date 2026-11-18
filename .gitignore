@@ -1,0 +1,24 @@
+# Dataset
+Dataset/
+dataset/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# Model weights
+*.pt
+*.pth
+*.h5
+*.caffemodel
+
+# Checkpoints
+checkpoints/
+
+# Temporary files
+*.log
+.ipynb_checkpoints/
