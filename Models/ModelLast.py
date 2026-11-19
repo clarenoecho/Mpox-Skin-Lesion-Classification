@@ -1,7 +1,6 @@
 import torch
 import torch.nn as nn
 
-
 class MiniViT(nn.Module):
     input_size = 128
 
