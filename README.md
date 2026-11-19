@@ -134,9 +134,9 @@ Program Studi Sains Data, Fakultas Informatika — Telkom University Surabaya:
 
 | Anggota | NIM | Tanggung Jawab | File Terkait |
 |---|---|---|---|
-| **Fitri Nabila Khalisa Airlangga** | `108102500010` | Penyiapan dataset 5-fold, *preprocessing* & augmentasi, *data loader*, dan implementasi arsitektur `SimpleCNN` | `Utils/getData.py`, `Utils/Preprocessing.py`, `Models/CNN.py` |
-| **Mochamad Ariq Shabri Sarono** | `108102500015` | Perancangan dan implementasi `ModifiedCNN`, skrip pelatihan *5-fold* (`Train.py`), pencatatan parameter, serta analisis perbandingan dengan `SimpleCNN` | `Models/ModifiedCNN.py`, `Train.py` |
-| **Tasya Clara Tarigan** | `108102500039` | Implementasi `MiniViT`, pengujian model (`test.py`), perhitungan metrik evaluasi (*confusion matrix*, *accuracy*, *precision*, *recall*, *Macro-F1*, *ROC-AUC*), dan visualisasi | `Models/ModelLast.py`, `Utils/metrics.py`, `test.py` |
+| **Fitri Nabila Khalisa Airlangga** | `108102500010` | Implementasi arsitektur `MiniViT`, pengujian dan validasi *training* & *testing*, penyusunan laporan paper (IEEE), serta dokumentasi `README.md` | `Models/ModelLast.py`, `Train.py`, `test.py`, Laporan Paper, `README.md` |
+| **Mochamad Ariq Shabri Sarono** | `108102500015` | Implementasi arsitektur *baseline* `SimpleCNN` serta eksekusi penuh *training* dan *testing* 5-fold untuk seluruh model pada GPU RTX | `Models/CNN.py`, `Train.py`, `test.py`, `results/` |
+| **Tasya Clara Tarigan** | `108102500039` | Pengumpulan dan penyiapan dataset MSLD v2.0, implementasi arsitektur `ModifiedCNN`, pengelolaan repositori GitHub, serta pembuatan materi presentasi (PPT) | `Models/ModifiedCNN.py`, `Utils/getData.py`, `Utils/Preprocessing.py`, GitHub Repo, Slide PPT |
 
 ## 10. Referensi
 [1] S. N. Ali *et al.*, “A web-based mpox skin lesion detection system using state-of-the-art deep learning models considering racial diversity,” *arXiv:2306.14169*, 2023.  
